@@ -1,0 +1,94 @@
+.main-div{
+    display: flex;
+    align-items: center;
+
+    flex-direction: column;
+}
+.main-div-1{
+    text-align: center;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 720px;
+    height: 343px;
+    background: url("./images/torshov-image.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 0%;
+}
+
+.tag-line{
+    border-radius: 10px;
+    width: 412px;
+    background-color: #457B9D;
+    padding: 5px 20px;
+}
+
+.title{
+    border-radius: 10px;
+    background: #1D3557;
+    padding: 5px 15px;
+}
+.main-div-2{
+    display: flex;
+    width: 720px;
+    height: 343px;
+    background: #F1FAEE;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.main-div-2>div{
+    width: 180px;
+    text-align: center;
+}
+
+.main-div-3{
+    display: flex;
+    width: 720px;
+    height: 343px;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer{
+    border-radius: 10px;
+    display: flex;
+    width: 400px;
+    height: 294px;
+    background: #A8DADC;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0px 5px black;
+}
+
+.main-div-2>div>img{
+    border-radius: 100%;
+}
+.footer-l{
+    width: 180px;
+    height: 248.67px;
+    border-radius: 10px;
+}
+
+.footer-r{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.desc{
+    font-style: italic;
+    text-align: center;
+    width: 189px;
+}
+h4{
+    color: #1D3557;
+}
+
+p{
+    color: #1D3557;
+}
+
