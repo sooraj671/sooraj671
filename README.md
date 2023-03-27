@@ -1,21 +1,13 @@
 ### Hi there 👋
 
-<!--
-**sooraj671/sooraj671** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 💫 About Me:
-I am a Flutter Developer with 2 years of experience <br>in developing, testing, and maintaining mobile apps. <br>I have great coding, debugging, and project management<br>abilities using JIRA.  <br>I have good command over version control tools. <br>
+- 🔭 I’m currently working on mobile app development (android & ios) in flutter framework 
+- 🌱 I’m currently learning System Design & Architecture 
+- 👯 I’m looking to collaborate on flutter repositories
+- 🤔 I’m looking for help with finding a remote opportunity
+- 😄 Pronouns: He
+- ⚡ Think twice, code once!!!
 
 
 ## 🌐 Socials:
