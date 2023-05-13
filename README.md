@@ -2,9 +2,9 @@
 
 
 
-- 🔭 I’m currently working on mobile app development (android & ios) in flutter framework 
-- 🌱 I’m currently learning System Design & Architecture 
-- 👯 I’m looking to collaborate on flutter repositories
+- 🔭 I’m currently working on machine learning 
+- 🌱 I’m currently learning Computer Vision and Generative AI 
+- 👯 I’m looking to collaborate on open source repositories
 - 🤔 I’m looking for help with finding a remote opportunity
 - 😄 Pronouns: He
 - ⚡ Think twice, code once!!!
